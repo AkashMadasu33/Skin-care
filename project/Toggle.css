@@ -1,0 +1,32 @@
+
+*
+{
+    margin: 0;
+    box-sizing: border-box;
+}
+#maaa{
+    height: 60px;
+    width: 40px;
+    position: relative;
+   bottom: 300px;
+    left: 600px;
+    /* color: black; */
+    
+
+}
+.vasamma{
+    background-color:black;
+    color: white;
+    background: radial-gradient(black);
+}
+P{
+    height: 100vh;
+    width: 100vw;
+    font-size: 50px;
+    color: white;
+    font-family: "Cedarville Cursive", cursive;
+   display: flex;
+   justify-content: center;
+   align-items: center; 
+   
+}
